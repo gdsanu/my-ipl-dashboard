@@ -1,2 +1,2 @@
 New Feature added to the code........
-Changes done on line 2
+Changes done on line 2 - conflict example
